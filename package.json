@@ -1,0 +1,15 @@
+{
+  "name": "blog-dhiraj-me",
+  "version": "1.0.0",
+  "description": "A blog site similar to blog.dhiraj.me built with Eleventy",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "author": "Dhiraj Yadav",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
