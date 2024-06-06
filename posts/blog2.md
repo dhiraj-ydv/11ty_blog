@@ -1,5 +1,5 @@
 ---
-title: "03/02/24 - Ranking Anime I watched"
+title: "03/02/24 - List of my favorite Anime"
 date: "2024-06-06"
 layout: base.njk
 ---
