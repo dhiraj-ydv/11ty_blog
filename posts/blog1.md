@@ -32,5 +32,3 @@ E-Rupee is basically a digital wallet which you can top-up using even UPI and ma
 Since this wallet is not directly linked to your bank account, so it relatively safe.
 
 NPCI says that UPI is made of person to person transactions. So if you need to pay to a merchant(for both small and large payments) you can use E-Rupee.
-
-Thank You
