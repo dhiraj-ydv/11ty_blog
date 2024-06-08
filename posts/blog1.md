@@ -1,5 +1,5 @@
 ---
-title: "01/04/24 - How will E-Rupee fit into the digital payments space of India when we already have UPI?"
+title: "01/04/24 - How will E-Rupee fit into the digital payments space of India when we already have UPI ?"
 date: "2024-06-06"
 layout: base.njk
 ---
